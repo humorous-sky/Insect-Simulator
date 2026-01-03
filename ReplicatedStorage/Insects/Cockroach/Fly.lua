@@ -1,0 +1,2 @@
+-- @ScriptType: Script
+--YOU CAN'T FLY!!!
